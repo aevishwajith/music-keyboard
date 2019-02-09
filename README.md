@@ -1,2 +1,2 @@
 # music-keyboard
-using the css designed a keyboard and inserted the musiv files through javascript.
+using the css designed a keyboard and inserted the music files through javascript.
